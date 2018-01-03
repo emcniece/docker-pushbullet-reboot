@@ -4,6 +4,9 @@ A convenient way to get notifications when this container restarts. Uses Alpine 
 
 Automatically appends date to the Pushbullet message.
 
+- [Docker Hub](https://hub.docker.com/r/emcniece/docker-pushbullet-reboot/)
+- [Github](https://github.com/emcniece/docker-pushbullet-reboot)
+
 ## Running
 
 ```

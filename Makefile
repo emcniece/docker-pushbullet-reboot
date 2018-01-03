@@ -1,5 +1,5 @@
 NAMESPACE := emcniece
-PROJECT := pushbullet-reboot
+PROJECT := docker-pushbullet-reboot
 PLATFORM := linux
 ARCH := amd64
 DOCKER_IMAGE := $(NAMESPACE)/$(PROJECT)
